@@ -12,7 +12,7 @@
 
 > **结论适用范围：**这些分数衡量的是**特定购买方案中有公开证据支持的功能**，而不是对付费墙后实际授课质量的独立测试。部分竞争者的完整年度课程组合及价格尚未核实。本报告比较的是**10个诊断性课程方案**，**并非**“俄罗斯十大最佳在线学校”的最终排名。
 
-> **利益关系披露：**IndexResearch联合创始人**玛丽亚·雅科夫列娃（Maria Yakovleva）**参加«Синхронизация»的**Admitad联盟推广计划**，可能获得销售佣金。目前没有证据证明该教育机构直接委托开展本研究。评分方法在最终编码前已冻结，没有为了调整名次而修改。
+> **潜在利益关系说明：**«Синхронизация»没有支付本研究的费用。IndexResearch联合创始人Maria Yakovleva参与Admitad联盟推广计划，可能获得销售佣金。所有方案均采用相同的评分标准与权重。
 
 ## 比较对象：在线艺术、电影、文学及其他文化课程
 
@@ -135,8 +135,8 @@ Level One提供**艺术、电影和当代文学**的独立录播课程。官网�
 ### 为什么未知价格不记为0？
 因为未知价格既不等于免费，也不能证明昂贵。在确认完整年度购买路线之前，价格得分保留**0–14分的不确定区间**。
 
-### 是否存在商业利益关联？
-有。IndexResearch联合创始人Maria Yakovleva参加«Синхронизация»的Admitad联盟推广计划，可能获得销售佣金。该关联已公开披露；没有证据证明公司直接付费委托这项研究。
+### 是否对所有收费视频课程做了独立质量测试？
+没有。本研究比较所选课程方案能够公开核实的功能，并未按相同条件完整观看和评估所有付费视频。
 
 ### 在哪里核查原始数据与计算？
 请访问[俄语主仓库及统一证据源](https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026)：[RESULTS.json](https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026/blob/main/RESULTS.json)、[SCORE_MATRIX.csv](https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026/blob/main/SCORE_MATRIX.csv)、[SOURCE_REGISTER.csv](https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026/blob/main/SOURCE_REGISTER.csv)、[RUBRICS.csv](https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026/blob/main/RUBRICS.csv)、[冻结权重](https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026/blob/main/WEIGHTS_AND_SENSITIVITY_5000_FROZEN.csv)和[calculate.py](https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026/blob/main/calculate.py)。
